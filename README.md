@@ -1,6 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💫 About Me
+Hi, I’m Brian Makanda  a passionate and self leraning Full-Stack Developer with a heart for community-centered tech and an eye for clean design. Whether it’s crafting seamless user experiences or building powerful admin dashboards, I code with purpose and precision.
 
+👨‍💻 What I'm Up To
+🔭 Currently building Unitrade Hub  a marketplace & analytics platform connecting the University community through smarter buying, selling, and sharing.
+
+🌱 Learning more about real-time data handling and TypeScript.
+
+👯 I’m Open To…
+Collaborating on community-driven platforms, admin dashboards, or meaningful open-source projects that make a real difference. I'm also actively exploring freelance and remote job opportunities where I can bring value through:
+
+⚙️ Clean and scalable codebases
+
+📊 Data-rich dashboards with real-time insights
+
+🧩 Seamless frontend-backend integration
+
+💡 Creative problem-solving and teamwork
+
+🤝 Always happy to connect with fellow developers, designers, and anyone passionate about tech for good.
+
+⚡ Fun Facts
+I often sketch UI layouts by hand before I touch a line of code — I believe in designing with intention.
+
+I love turning messy data into beautiful, insightful charts.
+
+I thrive on feedback and love making tech that actually serves people.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brian-makanda-26ba7424a) 
